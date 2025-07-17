@@ -1,6 +1,9 @@
 # Kntnt Unicode Fix
 
-[![License: GPL v2+](semi-copy.assets/License-GPLv2+-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Requires PHP: 8.3+](semi-copy.assets/PHP-8.3+-blue.svg)](https://php.net) [![Requires WordPress: 6.0+](semi-copy.assets/WordPress-6.0+-blue.svg)](https://wordpress.org)
+[![License: GPL v2+](https://img.shields.io/badge/License-GPLv2+-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
+[![Requires PHP: 8.3+](https://img.shields.io/badge/PHP-8.3+-blue.svg)](https://php.net)
+[![Requires WordPress: 6.0+](https://img.shields.io/badge/WordPress-6.0+-blue.svg)](https://wordpress.org)
+
 
 WordPress plugin that fixes corrupt Unicode escape sequences in block editor JSON data.
 
